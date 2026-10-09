@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "nomi": "Real Madrid",
+    "mamlakat": "Ispaniya",
+    "shahar": "Madrid",
+    "tashkil_etilgan_yili": 1902,
+    "stadion": "Santiago Bernabéu",
+    "ligasi": "La Liga"
+  },
+  {
+    "id": 2,
+    "nomi": "FC Barcelona",
+    "mamlakat": "Ispaniya",
+    "shahar": "Barselona",
+    "tashkil_etilgan_yili": 1899,
+    "stadion": "Spotify Camp Nou",
+    "ligasi": "La Liga"
+  },
+  {
+    "id": 3,
+    "nomi": "Manchester United",
+    "mamlakat": "Angliya",
+    "shahar": "Manchester",
+    "tashkil_etilgan_yili": 1878,
+    "stadion": "Old Trafford",
+    "ligasi": "Premier League"
+  },
+  {
+    "id": 4,
+    "nomi": "Manchester City",
+    "mamlakat": "Angliya",
+    "shahar": "Manchester",
+    "tashkil_etilgan_yili": 1880,
+    "stadion": "Etihad Stadium",
+    "ligasi": "Premier League"
+  },
+  {
+    "id": 5,
+    "nomi": "Liverpool FC",
+    "mamlakat": "Angliya",
+    "shahar": "Liverpul",
+    "tashkil_etilgan_yili": 1892,
+    "stadion": "Anfield",
+    "ligasi": "Premier League"
+  },
+  {
+    "id": 6,
+    "nomi": "Arsenal FC",
+    "mamlakat": "Angliya",
+    "shahar": "London",
+    "tashkil_etilgan_yili": 1886,
+    "stadion": "Emirates Stadium",
+    "ligasi": "Premier League"
+  },
+  {
+    "id": 7,
+    "nomi": "Chelsea FC",
+    "mamlakat": "Angliya",
+    "shahar": "London",
+    "tashkil_etilgan_yili": 1905,
+    "stadion": "Stamford Bridge",
+    "ligasi": "Premier League"
+  },
+  {
+    "id": 8,
+    "nomi": "Bayern Munich",
+    "mamlakat": "Germaniya",
+    "shahar": "Myunxen",
+    "tashkil_etilgan_yili": 1900,
+    "stadion": "Allianz Arena",
+    "ligasi": "Bundesliga"
+  },
+  {
+    "id": 9,
+    "nomi": "Borussia Dortmund",
+    "mamlakat": "Germaniya",
+    "shahar": "Dortmund",
+    "tashkil_etilgan_yili": 1909,
+    "stadion": "Signal Iduna Park",
+    "ligasi": "Bundesliga"
+  },
+  {
+    "id": 10,
+    "nomi": "Bayer Leverkusen",
+    "mamlakat": "Germaniya",
+    "shahar": "Leverkuzen",
+    "tashkil_etilgan_yili": 1904,
+    "stadion": "BayArena",
+    "ligasi": "Bundesliga"
+  },
+  {
+    "id": 11,
+    "nomi": "Juventus FC",
+    "mamlakat": "Italiya",
+    "shahar": "Turin",
+    "tashkil_etilgan_yili": 1897,
+    "stadion": "Allianz Stadium",
+    "ligasi": "Serie A"
+  },
+  {
+    "id": 12,
+    "nomi": "AC Milan",
+    "mamlakat": "Italiya",
+    "shahar": "Milan",
+    "tashkil_etilgan_yili": 1899,
+    "stadion": "San Siro",
+    "ligasi": "Serie A"
+  },
+  {
+    "id": 13,
+    "nomi": "Inter Milan",
+    "mamlakat": "Italiya",
+    "shahar": "Milan",
+    "tashkil_etilgan_yili": 1908,
+    "stadion": "Giuseppe Meazza",
+    "ligasi": "Serie A"
+  },
+  {
+    "id": 14,
+    "nomi": "AS Roma",
+    "mamlakat": "Italiya",
+    "shahar": "Rim",
+    "tashkil_etilgan_yili": 1927,
+    "stadion": "Stadio Olimpico",
+    "ligasi": "Serie A"
+  },
+  {
+    "id": 15,
+    "nomi": "Paris Saint-Germain",
+    "mamlakat": "Fransiya",
+    "shahar": "Parij",
+    "tashkil_etilgan_yili": 1970,
+    "stadion": "Parc des Princes",
+    "ligasi": "Ligue 1"
+  },
+  {
+    "id": 16,
+    "nomi": "Olympique de Marseille",
+    "mamlakat": "Fransiya",
+    "shahar": "Marsel",
+    "tashkil_etilgan_yili": 1899,
+    "stadion": "Orange Vélodrome",
+    "ligasi": "Ligue 1"
+  },
+  {
+    "id": 17,
+    "nomi": "SL Benfica",
+    "mamlakat": "Portugaliya",
+    "shahar": "Lissabon",
+    "tashkil_etilgan_yili": 1904,
+    "stadion": "Estádio da Luz",
+    "ligasi": "Primeira Liga"
+  },
+  {
+    "id": 18,
+    "nomi": "FC Porto",
+    "mamlakat": "Portugaliya",
+    "shahar": "Portu",
+    "tashkil_etilgan_yili": 1893,
+    "stadion": "Estádio do Dragão",
+    "ligasi": "Primeira Liga"
+  },
+  {
+    "id": 19,
+    "nomi": "AFC Ajax",
+    "mamlakat": "Niderlandiya",
+    "shahar": "Amsterdam",
+    "tashkil_etilgan_yili": 1900,
+    "stadion": "Johan Cruyff Arena",
+    "ligasi": "Eredivisie"
+  },
+  {
+    "id": 20,
+    "nomi": "Galatasaray SK",
+    "mamlakat": "Turkiya",
+    "shahar": "Istanbul",
+    "tashkil_etilgan_yili": 1905,
+    "stadion": "RAMS Park",
+    "ligasi": "Süper Lig"
+  },
+  {
+    "id": 21,
+    "nomi": "Fenerbahçe SK",
+    "mamlakat": "Turkiya",
+    "shahar": "Istanbul",
+    "tashkil_etilgan_yili": 1907,
+    "stadion": "Sükrü Saracoğlu",
+    "ligasi": "Süper Lig"
+  },
+  {
+    "id": 22,
+    "nomi": "Celtic FC",
+    "mamlakat": "Shotlandiya",
+    "shahar": "Glazgo",
+    "tashkil_etilgan_yili": 1887,
+    "stadion": "Celtic Park",
+    "ligasi": "Scottish Premiership"
+  },
+  {
+    "id": 23,
+    "nomi": "Pakhtakor",
+    "mamlakat": "O'zbekiston",
+    "shahar": "Toshkent",
+    "tashkil_etilgan_yili": 1956,
+    "stadion": "Paxtakor markaziy stadioni",
+    "ligasi": "O'zbekiston Superligasi"
+  },
+  {
+    "id": 24,
+    "nomi": "FC Nasaf",
+    "mamlakat": "O'zbekiston",
+    "shahar": "Qarshi",
+    "tashkil_etilgan_yili": 1986,
+    "stadion": "Markaziy stadioni",
+    "ligasi": "O'zbekiston Superligasi"
+  },
+  {
+    "id": 25,
+    "nomi": "Navbahor",
+    "mamlakat": "O'zbekiston",
+    "shahar": "Namangan",
+    "tashkil_etilgan_yili": 1978,
+    "stadion": "Markaziy stadioni",
+    "ligasi": "O'zbekiston Superligasi"
+  },
+  {
+    "id": 26,
+    "nomi": "Flamengo",
+    "mamlakat": "Braziliya",
+    "shahar": "Rio-de-Janeyro",
+    "tashkil_etilgan_yili": 1895,
+    "stadion": "Maracanã",
+    "ligasi": "Brasileirão"
+  },
+  {
+    "id": 27,
+    "nomi": "Boca Juniors",
+    "mamlakat": "Argentina",
+    "shahar": "Buenos-Ayres",
+    "tashkil_etilgan_yili": 1905,
+    "stadion": "La Bombonera",
+    "ligasi": "Liga Profesional"
+  },
+  {
+    "id": 28,
+    "nomi": "River Plate",
+    "mamlakat": "Argentina",
+    "shahar": "Buenos-Ayres",
+    "tashkil_etilgan_yili": 1901,
+    "stadion": "MÁS Monumental",
+    "ligasi": "Liga Profesional"
+  },
+  {
+    "id": 29,
+    "nomi": "Al Hilal",
+    "mamlakat": "Saudiya Arabistoni",
+    "shahar": "Riyoz",
+    "tashkil_etilgan_yili": 1957,
+    "stadion": "Kingdom Arena",
+    "ligasi": "Saudi Pro League"
+  },
+  {
+    "id": 30,
+    "nomi": "Inter Miami CF",
+    "mamlakat": "AQSh",
+    "shahar": "Mayami",
+    "tashkil_etilgan_yili": 2018,
+    "stadion": "Chase Stadium",
+    "ligasi": "MLS"
+  }
+]
